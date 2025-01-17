@@ -12,7 +12,7 @@ def speedcheck():
 
 # GUI Setup
 sp = Tk()
-sp.title("Internet Speed By OOBLA")
+sp.title("Internet Speed By The One And Only Mustafa")
 sp.geometry("500x500")
 sp.config(bg="white")
 
